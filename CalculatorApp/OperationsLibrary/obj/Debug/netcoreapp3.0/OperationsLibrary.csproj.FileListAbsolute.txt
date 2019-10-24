@@ -1,0 +1,9 @@
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\OperationsLibrary\bin\Debug\netcoreapp3.0\OperationsLibrary.deps.json
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\OperationsLibrary\bin\Debug\netcoreapp3.0\OperationsLibrary.dll
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\OperationsLibrary\bin\Debug\netcoreapp3.0\OperationsLibrary.pdb
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\OperationsLibrary\bin\Debug\netcoreapp3.0\OperationsLibrary.xml
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\OperationsLibrary\obj\Debug\netcoreapp3.0\OperationsLibrary.AssemblyInfoInputs.cache
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\OperationsLibrary\obj\Debug\netcoreapp3.0\OperationsLibrary.AssemblyInfo.cs
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\OperationsLibrary\obj\Debug\netcoreapp3.0\OperationsLibrary.dll
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\OperationsLibrary\obj\Debug\netcoreapp3.0\OperationsLibrary.pdb
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\OperationsLibrary\obj\Debug\netcoreapp3.0\OperationsLibrary.csprojAssemblyReference.cache

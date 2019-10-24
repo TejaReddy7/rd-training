@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OperationsLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:OperationsLibrary.Operations">
+            <summary>
+            The main Operations class.
+            <para>Contains all methods for performing basic math operations.</para>
+            </summary>
+            <remarks>
+            <para>This class can add, subtract, multiply and divide.</para>
+            <para>These operations can be performed on doubles.</para>
+            </remarks>
+        </member>
+        <member name="M:OperationsLibrary.Operations.Add(System.Double,System.Double)">
+            <summary>
+            Adds two numbers and returns the result.
+            <para>See <see cref="M:OperationsLibrary.Operations.Add(System.Double,System.Double)"/> to add doubles.</para>
+            </summary>
+            <returns>
+            The sum of two integers.
+            </returns>
+            <example>
+            <code>
+            double c = Operations.Add(4, 5);
+            if (c > 10)
+            {
+                Console.WriteLine(c);
+            }
+            </code>
+            </example>
+            <param name="value1">A double precision number.</param>
+            <param name="value2">A double precision number.</param>
+        </member>
+        <member name="M:OperationsLibrary.Operations.Sub(System.Double,System.Double)">
+            <summary>
+            Subtracts two numbers and returns the result.
+            <para>See <see cref="M:OperationsLibrary.Operations.Sub(System.Double,System.Double)"/> to add doubles.</para>
+            </summary>
+            <returns>
+            The subtraction of two integers.
+            </returns>
+            <param name="value1">A double precision number</param>
+            <param name="value2">A double precision number</param>
+        </member>
+        <member name="M:OperationsLibrary.Operations.Multiply(System.Double,System.Double)">
+            <summary>
+            Multiplies two numbers and returns the result.
+            <para>See <see cref="M:OperationsLibrary.Operations.Add(System.Double,System.Double)"/> to add doubles.</para>
+            </summary>
+            <returns>
+            The multiplication of two integers.
+            </returns>
+        </member>
+        <member name="M:OperationsLibrary.Operations.Div(System.Double,System.Double)">
+            <summary>
+            Divides two numbers and returns the result.
+            <para>See <see cref="M:OperationsLibrary.Operations.Add(System.Double,System.Double)"/> to add doubles.</para>
+            </summary>
+            <returns>
+            The Division of two integers.
+            </returns>
+        </member>
+        <member name="T:OperationsLibrary.Extensions">
+            <summary>
+            The is Extensions class.
+            <para>Contains a method for converting double to float.</para>
+            </summary>
+            <returns>
+            converts double to float
+            </returns>
+        </member>
+        <member name="M:OperationsLibrary.Extensions.DoubleToFloat(System.Double,System.Double)">
+            <summary>
+            The is DoubleToFloat Method.
+            <para>Converts a double to float.</para>
+            </summary>
+            <returns>
+            converts double to float
+            </returns>
+        </member>
+        <member name="M:OperationsLibrary.IOperations.Add(System.Double,System.Double)">
+            <summary>
+            It adds
+            </summary>
+            <param name="value1">A double value</param>
+            <param name="value2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OperationsLibrary.IOperations.Sub(System.Double,System.Double)">
+            <summary>
+            
+            </summary>
+            <param name="value1"></param>
+            <param name="value2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OperationsLibrary.IOperations.Multiply(System.Double,System.Double)">
+            <summary>
+            
+            </summary>
+            <param name="value1"></param>
+            <param name="value2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OperationsLibrary.IOperations.Div(System.Double,System.Double)">
+            <summary>
+            
+            </summary>
+            <param name="value1"></param>
+            <param name="value2"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.0\CalculatorApp.exe
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.0\CalculatorApp.deps.json
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.0\CalculatorApp.runtimeconfig.json
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.0\CalculatorApp.runtimeconfig.dev.json
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.0\CalculatorApp.dll
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.0\CalculatorApp.pdb
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.0\OperationsLibrary.dll
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.0\OperationsLibrary.pdb
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.0\OperationsLibrary.xml
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.0\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.0\CalculatorApp.csproj.CopyComplete
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.0\CalculatorApp.dll
+C:\Users\Saicharan_Jeevanagar\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.0\CalculatorApp.pdb
